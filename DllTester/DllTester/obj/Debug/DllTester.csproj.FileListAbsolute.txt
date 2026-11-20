@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\bin\Debug\DllTester.exe.config
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\bin\Debug\DllTester.exe
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\bin\Debug\DllTester.pdb
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\bin\Debug\MyFirstDll.dll
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\bin\Debug\MyFirstDll.pdb
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\obj\Debug\DllTester.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\obj\Debug\DllTester.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\obj\Debug\DllTester.csproj.Up2Date
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\obj\Debug\DllTester.exe
+C:\Users\Дмитрий\source\repos\DllTester\DllTester\obj\Debug\DllTester.pdb

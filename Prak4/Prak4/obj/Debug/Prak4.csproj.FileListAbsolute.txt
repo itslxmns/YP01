@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\Prak4\Prak4\bin\Debug\Prak4.exe.config
+C:\Users\Дмитрий\source\repos\Prak4\Prak4\bin\Debug\Prak4.exe
+C:\Users\Дмитрий\source\repos\Prak4\Prak4\bin\Debug\Prak4.pdb
+C:\Users\Дмитрий\source\repos\Prak4\Prak4\obj\Debug\Prak4.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Prak4\Prak4\obj\Debug\Prak4.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Prak4\Prak4\obj\Debug\Prak4.exe
+C:\Users\Дмитрий\source\repos\Prak4\Prak4\obj\Debug\Prak4.pdb

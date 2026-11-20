@@ -1,0 +1,6 @@
+C:\Users\Дмитрий\source\repos\MyFirstDll\MyFirstDll\bin\Debug\MyFirstDll.dll
+C:\Users\Дмитрий\source\repos\MyFirstDll\MyFirstDll\bin\Debug\MyFirstDll.pdb
+C:\Users\Дмитрий\source\repos\MyFirstDll\MyFirstDll\obj\Debug\MyFirstDll.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\MyFirstDll\MyFirstDll\obj\Debug\MyFirstDll.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\MyFirstDll\MyFirstDll\obj\Debug\MyFirstDll.dll
+C:\Users\Дмитрий\source\repos\MyFirstDll\MyFirstDll\obj\Debug\MyFirstDll.pdb
