@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\source\repos\Prak7(6)\Prak7(6)\bin\Debug\Prak7(6).exe.config
+C:\Users\Дмитрий\source\repos\Prak7(6)\Prak7(6)\bin\Debug\Prak7(6).exe
+C:\Users\Дмитрий\source\repos\Prak7(6)\Prak7(6)\bin\Debug\Prak7(6).pdb
+C:\Users\Дмитрий\source\repos\Prak7(6)\Prak7(6)\obj\Debug\Prak7(6).csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Prak7(6)\Prak7(6)\obj\Debug\Prak7(6).csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Prak7(6)\Prak7(6)\obj\Debug\Prak7(6).exe
+C:\Users\Дмитрий\source\repos\Prak7(6)\Prak7(6)\obj\Debug\Prak7(6).pdb
