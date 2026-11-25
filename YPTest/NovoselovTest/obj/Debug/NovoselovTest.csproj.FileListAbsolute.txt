@@ -1,0 +1,10 @@
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\bin\Debug\NovoselovTest.exe.config
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\bin\Debug\NovoselovTest.exe
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\bin\Debug\NovoselovTest.pdb
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\bin\Debug\LibraryLib.dll
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\bin\Debug\LibraryLib.pdb
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\obj\Debug\NovoselovTest.csproj.AssemblyReference.cache
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\obj\Debug\NovoselovTest.csproj.CoreCompileInputs.cache
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\obj\Debug\Novoselo.D018C0FB.Up2Date
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\obj\Debug\NovoselovTest.exe
+C:\Users\UserLuminous\source\repos\NovoselovTest\NovoselovTest\obj\Debug\NovoselovTest.pdb
